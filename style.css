@@ -787,9 +787,6 @@ $overlay_pattern: 'https://d3k5xyayaartr5.cloudfront.net/_assets/pattern-overlay
 	align-items: center;
 	flex-wrap: wrap;
 }
-.link {
-	width: 267px;
-}
 .link:hover svg image{
   color: #c7b299;
 }

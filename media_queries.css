@@ -1,0 +1,48 @@
+@media only screen and (max-width : 992px) {
+    .wrapper  {
+        width: 900px;
+    }
+    .slider {
+    	height: 485px;
+	}
+	.slider ul {
+		display: none;
+	}
+    .txt_slide {
+    	display: none;
+    }
+     label {
+    display: block;
+  }
+  .menu {
+    visibility: hidden;
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+    flex-direction: column;
+  }
+  .menu li {
+    height: 40px;
+    text-align: center;
+    background-color: #ccc;
+    margin-top: 2px;
+  }
+  .menu li a {
+    width: 100%;
+  }
+  .presentation {
+  	width: 900px;
+  }
+}
+
+
+@media only screen and (max-width : 768px) {
+    .wrapper  {
+        width: 700px;
+    }
+}
+@media only screen and (max-width : 480px) {
+    .wrapper  {
+        width: 450px;
+    }
+}

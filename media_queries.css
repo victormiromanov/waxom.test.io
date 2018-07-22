@@ -45,4 +45,6 @@
     .wrapper  {
         width: 450px;
     }
+     .word {
+	     display: none;
 }

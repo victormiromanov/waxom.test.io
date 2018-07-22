@@ -295,7 +295,8 @@ a.prev:hover,a.next:hover {
 	width: 100%;
 	background-color: #241d1a;
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: space-around;
+	flex-wrap: wrap;
 }
 .color {
 	color: #988774;
